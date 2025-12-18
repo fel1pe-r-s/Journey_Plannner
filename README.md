@@ -1,6 +1,6 @@
 #Journey_Plannner # Journey_Plannner
 
-**Tags**: #CSS #Fastify #Html #JavaScript #Markdown #Node #Prisma #React #Tailwind #TypeScript #Zod
+**Tags**: #CSS #Database #Fastify #Html #JavaScript #Markdown #Node #Prisma #React #Tailwind #TypeScript #Zod
 
 ## 🔗 Repository Reference
 **Internal Path**: `01_Projetos/Journey_Plannner`
